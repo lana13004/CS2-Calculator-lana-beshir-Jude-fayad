@@ -1,1 +1,1 @@
-# CS2-Calculator-lana-beshir-Jude-fayad
+# CS2 Calculator Project
