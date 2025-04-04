@@ -1,0 +1,3 @@
+/Users/lanabeshir/CS2-Calculator-lana13004/build/CMakeFiles/calculator.dir
+/Users/lanabeshir/CS2-Calculator-lana13004/build/CMakeFiles/edit_cache.dir
+/Users/lanabeshir/CS2-Calculator-lana13004/build/CMakeFiles/rebuild_cache.dir
